@@ -1,6 +1,6 @@
 # 🧠 Customer Segmentation & Market Basket Analysis
 
-This project combines **Unsupervised Learning** techniques—**Clustering (KMeans, DBSCAN, Agglomerative, MeanShift, GMM)** and **Association Rule Mining (Apriori)**—to analyze customer purchase behavior from an online retail dataset.
+This project combines **Unsupervised Learning** techniques **Clustering (KMeans, DBSCAN, Agglomerative, MeanShift, GMM)** and **Association Rule Mining (Apriori)** to analyze customer purchase behavior from an online retail dataset.
 
 ---
 
